@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Uploading image.png…]()
+
 
 <!--
 **ezyxo22ooo59/ezyxo22ooo59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://gitroll.io/profile/ufGnPFKQO5XPTEtmvzZwfbTGZwdc2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ufGnPFKQO5XPTEtmvzZwfbTGZwdc2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
